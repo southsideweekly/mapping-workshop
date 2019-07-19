@@ -6,14 +6,21 @@ Remixed from tutorials offered by Michelle McSweeney (michellejm) and Dare Brawl
 
 ## Installing QGIS
 
+### PC
 1. Download QGIS [here](http://www.qgis.org/en/site/forusers/download.html)
-	1. On a **PC**, simply Click on the 'QGIS standalone installer' and follow the prompts.
-	2. On a **Mac**, you will be taken to the KyngChaos page.
+2. Click on the 'QGIS standalone installer' and follow the prompts.
+
+### Mac
+1. Go [here](http://www.qgis.org/en/site/forusers/download.html), which will take you to the KyngChaos page.
+
 	![kingchaos](https://github.com/michellejm/ConflictUrbanism_LanguageJustice/blob/master/Images/qdown.png)
-	3. Something like this will download
+
+2.. Something like this will download
+
 	![download](https://github.com/michellejm/ConflictUrbanism_LanguageJustice/blob/master/Images/qgisdownload.png)
-	4. You MUST install the items IN ORDER. They are numbered. It is very important to follow the numbers.
-	5. Finally, follow all of the prompts for all of the packages.
+
+3. You MUST install the items IN ORDER. They are numbered. It is very important to follow the numbers.
+4. Finally, follow all of the prompts for all of the packages.
 
 **Launch** QGIS. Your new blank map project will look like this:
 
