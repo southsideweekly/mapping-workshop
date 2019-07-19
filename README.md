@@ -15,7 +15,7 @@ Remixed from tutorials offered by Michelle McSweeney (michellejm) and Dare Brawl
 
 	![kingchaos](https://github.com/michellejm/ConflictUrbanism_LanguageJustice/blob/master/Images/qdown.png)
 
-2.. Something like this will download
+2. Something like this will download
 
 	![download](https://github.com/michellejm/ConflictUrbanism_LanguageJustice/blob/master/Images/qgisdownload.png)
 
