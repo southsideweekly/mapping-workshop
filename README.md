@@ -5,6 +5,7 @@ Materials for workshop led by Jasmine Mithani (@jmithani) on mapping for journal
 Remixed from tutorials offered by Michelle McSweeney (michellejm) and Dare Brawley from the Center for Spatial Research at Columbia University.
 
 ## Installing QGIS
+Download the **Long Term Release (3.4)**.
 
 ### PC
 1. Download QGIS [here](http://www.qgis.org/en/site/forusers/download.html)
